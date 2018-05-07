@@ -9,7 +9,10 @@ body{
 sup{
   font-size: 6px; 
 }
-
+footer{
+  font-family: sans-serif;
+  font-size: 4px;
+}
 h1{
   text-decoration: underline;
 
